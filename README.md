@@ -1,3 +1,6 @@
+#This is my practice for you tube video https://www.youtube.com/watch?v=YLpCPo0FDtE&t=3788s for its angular learning section only.
+
+
 # FirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
