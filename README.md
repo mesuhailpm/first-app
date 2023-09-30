@@ -1,5 +1,7 @@
 #This is my practice for you tube video https://www.youtube.com/watch?v=YLpCPo0FDtE&t=3788s for its angular learning section only.
 
+### This contains default Angular app when we create using ng new
+
 
 # FirstApp
 
