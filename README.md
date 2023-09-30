@@ -1,4 +1,4 @@
-![Preview](Screenshot 2023-09-30 131344.png)
+![Preview](preview.png)
 
 
 # FirstApp
