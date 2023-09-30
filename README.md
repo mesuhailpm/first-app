@@ -1,3 +1,6 @@
+![Preview](Screenshot 2023-09-30 131344.png)
+
+
 # FirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
